@@ -1,0 +1,53 @@
+.green-color{
+color:green;
+}
+.experience-item{
+    padding:10px;
+    border-left: 1px solid rgba(137,130,247,1);
+}
+
+ body{
+ font-family:sans-serif ;
+ color:#777777 ;
+ line-height:25px ;
+}
+ .half-width{
+ width:50%;
+ float:left;
+}
+.side-img{
+ width:70%;
+ padding:30%;
+ }
+.side-img1{
+ width:90%;
+ padding:5%;
+}
+.primary-btn{
+ color:white;
+ background-color:#947747;
+ padding: 13px 20px 13px 20px;
+ border-radius:20px;
+ text-decoration: none;
+}
+ .primary-btn1{
+ color:white;
+ background-color:#947747;
+ padding: 13px 18px 13px 18px;
+ border-radius:20px;
+ text-decoration: none;
+}
+ h1 { 
+ font-size: 2em;
+ }
+ .container{
+ padding-left:5%;
+ display: inline-block;
+ }
+.experiences{
+ padding:30px;
+ margin:30px;
+ background-color:rgb(238,251,255);
+ border-radius: 20px;
+}
+ 
